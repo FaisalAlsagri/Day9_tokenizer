@@ -1,0 +1,16 @@
+D:\DotNet\Practice\Day9\Day9_tokenizer\bin\Debug\net5.0\Day9_tokenizer.exe
+D:\DotNet\Practice\Day9\Day9_tokenizer\bin\Debug\net5.0\Day9_tokenizer.deps.json
+D:\DotNet\Practice\Day9\Day9_tokenizer\bin\Debug\net5.0\Day9_tokenizer.runtimeconfig.json
+D:\DotNet\Practice\Day9\Day9_tokenizer\bin\Debug\net5.0\Day9_tokenizer.runtimeconfig.dev.json
+D:\DotNet\Practice\Day9\Day9_tokenizer\bin\Debug\net5.0\Day9_tokenizer.dll
+D:\DotNet\Practice\Day9\Day9_tokenizer\bin\Debug\net5.0\ref\Day9_tokenizer.dll
+D:\DotNet\Practice\Day9\Day9_tokenizer\bin\Debug\net5.0\Day9_tokenizer.pdb
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\Day9_tokenizer.csprojAssemblyReference.cache
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\Day9_tokenizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\Day9_tokenizer.AssemblyInfoInputs.cache
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\Day9_tokenizer.AssemblyInfo.cs
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\Day9_tokenizer.csproj.CoreCompileInputs.cache
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\Day9_tokenizer.dll
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\ref\Day9_tokenizer.dll
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\Day9_tokenizer.pdb
+D:\DotNet\Practice\Day9\Day9_tokenizer\obj\Debug\net5.0\Day9_tokenizer.genruntimeconfig.cache
